@@ -27,8 +27,8 @@ A weather app which gives updated weather information for a particular location.
 - Pressure
 - Sunrise and Sunset
 - SearchView to get weather info for a particular location.
-- Location tracking using GPS (In Process)
-- Forecast weather for the upcoming days (In Process)
+- Location tracking using GPS (In Progress)
+- Forecast weather for the upcoming days (In Progress)
 
 </br>
 
