@@ -2,11 +2,11 @@
 A weather app which gives updated weather information for a particular location.
 
 <p align="center">
-<img src="images/dhaka.jpg" height="400">
+<img src="images/dhaka.png" height="400">
 
-<img src="images/Islamabad.jpg" height="400">
+<img src="images/islamabad.png" height="400">
   
-<img src="images/kuala lumpur.jpg" height="400">  
+<img src="images/kuala.png" height="400">  
 </p>
 
 </br>
